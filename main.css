@@ -7,3 +7,17 @@ p {
     font-family: verdana;
     font-size: 20px;
 }
+
+.mainLeftBar {
+    align-items: center;
+}
+
+.mainLeftBar > h1 {
+    font-family: Tahoma;
+    font-weight: bold;
+}
+
+.mainLeftBar > a {
+    font-family: 'Gill Sans';
+    font-weight: lighter;
+}

@@ -10,6 +10,7 @@ p {
 
 .mainLeftBar {
     align-items: center;
+    float: left;
 }
 
 .mainLeftBar > h1 {
@@ -20,4 +21,8 @@ p {
 .mainLeftBar > a {
     font-family: 'Gill Sans';
     font-weight: lighter;
+}
+
+.previewRightBar {
+    float: right;
 }

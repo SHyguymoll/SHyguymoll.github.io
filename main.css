@@ -11,6 +11,7 @@ p {
 .mainLeftBar {
     align-items: center;
     float: left;
+    background-image: linear-gradient(to right, #a180b1 , #f6e4ff);;
 }
 
 .mainLeftBar > h1 {
